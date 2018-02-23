@@ -1,3 +1,5 @@
 # eeihenbaums
 
-anytime anyday i love coding
+Хочу попробывать достигнуть целей:
+http://job4j.ru/
+выучить java core до мая.
